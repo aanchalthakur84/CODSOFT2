@@ -1,4 +1,6 @@
-# Iris Flower Classification
+# CODSOFT2
+
+## Iris Flower Classification
 
 A machine learning project that classifies iris flower species using the Random Forest algorithm.
 
